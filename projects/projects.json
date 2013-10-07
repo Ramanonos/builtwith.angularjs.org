@@ -1609,6 +1609,25 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Centroy",
+      "thumb": "centroy/thumb.jpg",
+      "desc": "Centroy is an online team collaboration portal. Businesses use Centroy as a secure intranet or extranet site to share documents and manage projects.",
+      "url": "http://centroy.com",
+      "submitter": "ramanonos",
+      "submissionDate": "2013-09-26",
+      "tags": [
+        "SQL lite",
+        "CSS3",
+        "jQuery",
+        "Productivity",
+        "Collaboration",
+        "FileSystem API",
+        "HTML5",
+        "CSS3",
+        "Cloud"
+      ]
     }
   ]
 }
